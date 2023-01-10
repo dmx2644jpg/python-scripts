@@ -1,2 +1,2 @@
-# python-scripts
-Some very basic Python scripts written for learners
+# python-code
+ Python code for learners
